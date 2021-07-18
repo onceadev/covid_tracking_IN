@@ -58,7 +58,7 @@ class _MyHeaderState extends State<MyHeader> {
                   ),
                   Positioned(
                     top: 50 - widget.offset / 2,
-                    left: 150,
+                    left: 160,
                     child: Text("${widget.textTop} \n${widget.textBottom}",
                         style: TextStyle(color: Colors.white, fontSize: 24)),
                   ),
